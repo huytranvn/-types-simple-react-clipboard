@@ -1,0 +1,26 @@
+{
+  "name": "@types/simple-react-clipboard",
+  "version": "1.0.0",
+  "description": "Typescript definitions for simple-react-clipboard",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Huy Tran",
+      "url": "https://github.com/huytranvn",
+      "githubUsername": "huytranvn"
+    }
+  ],
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huytranvn/types-simple-react-clipboard",
+    "directory": "types/connect"
+  },
+  "scripts": {},
+  "keywords": ["typescript", "react", "clipboard"],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typeScriptVersion": "1.0.5"
+}
