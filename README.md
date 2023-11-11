@@ -1,6 +1,8 @@
 # Installation
 
-> `npm install --save types-simple-react-clipboard`
+```
+npm install --save types-simple-react-clipboard
+```
 
 # Summary
 
