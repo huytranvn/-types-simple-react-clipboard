@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "types-simple-react-clipboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript definitions for simple-react-clipboard",
   "license": "MIT",
   "contributors": [
